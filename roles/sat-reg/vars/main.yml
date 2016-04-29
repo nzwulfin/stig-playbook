@@ -1,0 +1,5 @@
+---
+# vars file for sat-reg
+rhn_user: satadmin
+rhn_pass: redhat
+sat_fqdn: satellite5.lab.dlt.com
